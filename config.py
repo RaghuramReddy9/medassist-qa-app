@@ -1,5 +1,4 @@
-# config.py
-HF_FULL_MODEL = "RaghuramReddyT/medassist-qa"   # your HF repo
+HF_FULL_MODEL = "RaghuramReddyT/medassist-qa"   # your HF repo or Hf open source any model
 
 SAFETY_PREFIX = (
     "You are a helpful medical information assistant. You are not a doctor. "
